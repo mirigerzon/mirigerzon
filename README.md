@@ -2,7 +2,7 @@
 
 ### Computer Science Graduate | Fullstack Developer | React • Node.js • Databases
 
-Motivated Computer Science graduate (B.Sc., GPA 91.5) with hands-on experience in fullstack development.  
+Motivated Computer Science graduate (B.Sc., GPA 90.5) with hands-on experience in fullstack development.  
 Passionate about building impactful applications, combining strong analytical skills with creativity and teamwork.  
 Excited to keep learning and contribute to innovative software projects.
 
