@@ -1,94 +1,93 @@
-👋 Hi, I'm Miriam Gerson
-Software Developer | Full Stack | CS Graduate & Educator
+# 👋 Hi, I'm Miriam Gerson
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="45">
 
-React • Node.js • C# • Databases • Operating Systems
+### **Software Developer | Full Stack | CS Graduate & Educator**
 
-Software developer with hands-on experience in startup development, freelance production systems, and technical instruction.
-Strong background in full stack development and system-level concepts, with a focus on clean architecture, collaboration, and real-world delivery.
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-💼 Professional Experience
-Software Developer – CLASSIT (Startup) | 2024–Present
+---
 
-Contributing to feature design and implementation in a startup environment
+### 🧠 Profile
+Software developer with **real-world experience** in startup environments, production-grade systems, and technical instruction.  
+Strong background in full-stack development, system design, and clean architecture, with a focus on maintainable code and collaboration.
 
-Working with modern development tools and collaborative workflows
+---
 
-Emphasis on production-quality code, maintainability, and teamwork
+### 🏢 Professional Experience
 
-Operating Systems Instructor – National Cyber Directorate | 2024–Present
+**Software Developer – CLASSIT (Startup)** | *2024 – Present*
+- Feature design and implementation in a fast-paced startup environment
+- Working with modern tools, Git-based workflows, and code reviews
+- Focus on production-quality, maintainable code
 
-Teaching Operating Systems as part of the national cyber education program
+**Operating Systems Instructor – National Cyber Directorate** | *2024 – Present*
+- Teaching core OS concepts: processes, threads, synchronization
+- Guiding students through debugging, reasoning, and problem-solving
+- Translating complex system-level topics into clear explanations
 
-Topics include: processes, threads, synchronization, and system-level concepts
+**Freelance Software Developer – Or HaRashbi Organization** | *2024 – 2025*
+- End-to-end development of a production call-center management system
+- Requirements analysis, system design, development, and deployment
+- Implementation of authentication, RBAC, and operational workflows
 
-Guiding students in analytical thinking, debugging, and problem-solving
+---
 
-Freelance Software Developer – Or HaRashbi Organization | 2024–2025
+### 🚀 Featured Projects
 
-Designed and delivered a full production system for managing call-center operators
+#### 🔗 GitLink – Full Stack Web Application
+- **Tech:** React | Node.js | Express | MySQL
+- **Goal:** Web platform for showcasing developer projects and managing hiring workflows
+- **Key Features:** Authentication, ratings, notifications, email integration  
+- **Live Demo:** https://gitlink-w7ve.onrender.com
 
-Full responsibility: requirements analysis, system design, development, testing, and deployment
+#### 🖥️ Volunteer Management System
+- **Tech:** C# | WPF | XML
+- **Goal:** Desktop application with layered architecture (**DAL / BL / UI**) for managing volunteers and service calls
 
-Implemented authentication, role-based permissions, and operational workflows
+---
 
-🚀 Selected Projects
-GitLink – Full Stack Web Application
+### 🛠️ Tech Stack
 
-React | Node.js | Express | MySQL
-🔗 Live Demo
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | C, C++, C#, Java, Python, JavaScript |
+| **Web** | React, Node.js, HTML5, CSS |
+| **Databases** | MySQL |
+| **Tools / OS** | Git, GitHub, REST APIs, Windows, Linux |
 
-Platform for showcasing developer projects and managing hiring workflows
+---
 
-Features authentication, ratings, notifications, and email integration
+### 🎓 Education
 
-Cloud deployment with database integration
+- 🎓 **B.Sc. in Computer Science** – Lev Academic Center  
+  82 credits completed | **GPA: 90.5**
 
-Volunteer Management System
+- 🎓 **B.Ed. in Computer Science Education** – Jerusalem College of Education  
+  Expected Graduation: **2027**
 
-C#, WPF, XML
+- 🎓 **Google & Reichman High-Tech School Bootcamp**  
+  4-month intensive program | Practicum at **READY**
 
-Desktop system for managing volunteers and service calls
+---
 
-Implemented layered architecture (DAL / BL / UI)
+### 🤝 Community & Leadership
+- **Volunteer – “Chance” Youth Movement (2021–2025)**  
+  Teaching wheelchair dance to girls with physical disabilities, mentoring participants, and leading volunteer teams
 
-🎓 Education
+---
 
-B.Sc. in Computer Science – Lev Academic Center
-Completed 82 credits | GPA: 90.5
+### 📬 Contact Me
 
-B.Ed. in Computer Science Education – Jerusalem College of Education
-Expected Graduation: 2027
+- **Email:** [a0583286530@gmail.com](mailto:a0583286530@gmail.com)  
+- **LinkedIn:** [miri-gerzon](https://linkedin.com/in/miri-gerzon-726a78316)  
+- **GitHub:** [mirigerzon](https://github.com/mirigerzon)
 
-Google & Reichman High-Tech School Bootcamp
-4-month intensive program, including practicum at READY
+---
 
-🛠️ Skills & Knowledge
-
-Programming: C, C++, C#, Java, Python, JavaScript
-
-Web: React, Node.js, HTML5, CSS
-
-Databases: MySQL (schema design, queries)
-
-Tools & Concepts: Git, GitHub, REST APIs, OOP
-
-Operating Systems: Windows, Linux
-
-🤝 Community Contribution
-
-Volunteer – “Chance” Youth Movement (2021–2025)
-Teaching wheelchair dance to girls with physical disabilities, mentoring participants, and leading volunteer teams.
-
-🌍 Languages
-
-Hebrew – Native
-
-English – Fluent
-
-📫 Contact
-
-Email: a0583286530@gmail.com
-
-GitHub: mirigerzon
-
-LinkedIn: miri-gerzon
+> *“Coding with passion, teaching with clarity.”*
